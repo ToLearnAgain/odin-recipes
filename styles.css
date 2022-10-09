@@ -1,5 +1,10 @@
 /* styles.css */
 
+.cafecito {
+    background-color: chartreuse;
+    font-weight: bolder;
+}
+
 .uberTitulo {
     color: orangered;
     font-size: x-large;
@@ -19,6 +24,6 @@
 
 .recetas {
     color:navy;
-    font-size: small;
+    font-size: smaller;
 }
 
